@@ -177,11 +177,26 @@ The app uses the OpenWeatherMap API with the following parameters:
 
 ## 📱 Screenshots
 
+<div align="center">
+
+### Main Weather Display
+<img src="lib/screenshot/screen1.png" alt="Weather App Main Screen" width="300"/>
+
+### City Search Feature
+<img src="lib/screenshot/placename.png" alt="City Search Dialog" width="300"/>
+
+### Weather Details View
+<img src="lib/screenshot/screen2.png" alt="Weather Details Screen" width="300"/>
+
+</div>
+
 The app features:
-- Clean, modern interface
-- Dynamic weather backgrounds
-- Comprehensive weather information
-- Smooth animations and transitions
+- Clean, modern interface with glassmorphism effects
+- Dynamic weather backgrounds that change based on conditions
+- Comprehensive weather information including temperature, humidity, wind speed
+- Smooth animations and transitions for better user experience
+- City search functionality with intuitive UI
+- Responsive design that works across different screen sizes
 
 ## 🤝 Contributing
 
