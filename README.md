@@ -180,12 +180,15 @@ The app uses the OpenWeatherMap API with the following parameters:
 <div align="center">
 
 ### Main Weather Display
+<img width="1366" height="768" alt="screen1" src="https://github.com/user-attachments/assets/6b70e719-d302-4c69-b309-f35b2c44ca2f" />
 <img src="lib/screenshot/screen1.png" alt="Weather App Main Screen" width="300"/>
 
 ### City Search Feature
+<img width="1366" height="768" alt="placename" src="https://github.com/user-attachments/assets/ba9d5bd5-20fc-4341-b0a8-228daa83cd7f" />
 <img src="lib/screenshot/placename.png" alt="City Search Dialog" width="300"/>
 
 ### Weather Details View
+<img width="1366" height="768" alt="screen2" src="https://github.com/user-attachments/assets/d58355c5-8612-45bf-a556-a2304db1fab1" />
 <img src="lib/screenshot/screen2.png" alt="Weather Details Screen" width="300"/>
 
 </div>
